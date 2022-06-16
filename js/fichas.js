@@ -1,4 +1,4 @@
-var fichas = [
+const fichas = [
         // ficha tipo 0 (cuadrado)
     [
         [

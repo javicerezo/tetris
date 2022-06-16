@@ -474,4 +474,4 @@
             localStorage.clear();
         }
     }
-}())
+}());
